@@ -1,0 +1,5 @@
+PyPDF2
+yaml
+requests
+BeautifulSoup4
+lxml

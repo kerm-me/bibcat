@@ -1,3 +1,3 @@
 - n: A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks
   u: https://arxiv.org/pdf/1901.06053.pdf
-  d: 用机器学习计算尾部的index值
+  d: 用机器学习计算尾部的index值 # description 字段
